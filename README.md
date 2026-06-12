@@ -52,6 +52,14 @@ Esta práctica implementa una infraestructura de red segmentada y segura compues
 | SW-1 | VLAN 10 | 10.15.99.3/26 | Gestión del switch |
 | SW-2 | VLAN 10 | 10.15.99.4/26 | Gestión del switch |
 
+
+----------------------------------------
+Swichs/Router
+
+User: admin
+Password: cisco
+-----------------------------------------
+
 ### Subredes Utilizadas
 
 | VLAN | Nombre | Red | Máscara | Gateway | Rango Usable |
