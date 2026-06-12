@@ -38,6 +38,7 @@ Esta práctica implementa una infraestructura de red segmentada y segura compues
 ---
 
 ## Topología de Red
+![Topologia](Imagen.png)
 
 ---
 
