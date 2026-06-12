@@ -4,6 +4,7 @@
 **Matrícula:** 2024-1599
 
 **Repositorio GitHub:**
+https://github.com/juniorjaviersantosperez/Primer-Parcial---Seguridad-de-Redes
 
 **Video demostrativo:**
 https://www.youtube.com/watch?v=dcpJeWhHLSY 
@@ -57,7 +58,9 @@ Esta práctica implementa una infraestructura de red segmentada y segura compues
 Swichs/Router
 
 User: admin
+
 Password: cisco
+
 -----------------------------------------
 
 ### Subredes Utilizadas
